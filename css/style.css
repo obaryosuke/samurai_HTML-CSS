@@ -1,0 +1,10 @@
+.text1 {
+    color : black;
+    font-size : 40px;
+    display : block;
+    visibility : visible;
+}
+
+.addDiv {
+    background-color : blue;
+}
